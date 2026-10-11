@@ -4,6 +4,12 @@
     <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
 </a>
 
+## References and licensing
+
+This project includes a residual-network implementation inspired by public code and examples from the Keras ecosystem. The notebook and training logic were adapted from the public CIFAR-10 ResNet reference published by the Keras team.
+
+See [references/third_party_attributions.md](references/third_party_attributions.md) for the original sources, dataset references, and license notices. The repository's own project license is in [LICENCE](LICENCE).
+
 ## Cookiecutter Data Science
 This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
 

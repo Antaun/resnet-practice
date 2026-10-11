@@ -1,0 +1,9 @@
+tensorflow
+numpy
+scipy
+matplotlib
+torch
+torchvision
+transformers
+pillow
+datasets
